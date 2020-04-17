@@ -1,0 +1,22 @@
+{
+  "name": "zdy-ui",
+  "version": "1.0.0",
+  "description": "UI base on Vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://github.com/zdyjp/element-encapsulation.git"
+  },
+  "keywords": [
+    "UI"
+  ],
+  "author": "Jike",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zdyjp/element-encapsulation.git/issues"
+  },
+  "homepage": "https://github.com/zdyjp/element-encapsulation.git#readme"
+}
